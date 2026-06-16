@@ -10,7 +10,7 @@
 
 > A multi-task bilateral learning framework, which is **better** than unilateral configurations.
 
-**First Author:** Jiarong Chen
+**First Author:** Jiarong Chen (E-mail: jiarong.chen@sjtu.edu.cn)
 
 </div>
 
